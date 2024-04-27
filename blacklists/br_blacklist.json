@@ -3,6 +3,8 @@
   "https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8",
   "https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8",
   "https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8",
+  "https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8",
+  "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8",
   "https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8",
   "https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8",
   "https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8",
@@ -16,9 +18,9 @@
   "https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8",
   "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8",
   "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8",
+  "https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8",
   "https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8",
   "https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8",
-  "https://acesso.ecast.site:3456/hybrid/play.m3u8",
   "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8",
   "https://caikron.com.br:19360/criciuma/criciuma.m3u8",
   "https://canaleducacao-stream.ebc.com.br/index.m3u8",
@@ -98,7 +100,7 @@
   "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8",
   "https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8",
   "https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8",
+  "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
   "https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8",
-  "https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8",
   "https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8"
 ]
