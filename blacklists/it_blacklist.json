@@ -128,7 +128,6 @@
   "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
   "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8",
   "https://stream.internet.one/Rete55_Live/index.m3u8",
-  "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
   "https://stream1.aswifi.it/poptelevision/live/index.m3u8",
   "https://stream1.aswifi.it/primatvnapoli/live/index.m3u8",
   "https://stream10.xdevel.com/video0s976727-1544/stream/playlist.m3u8",
