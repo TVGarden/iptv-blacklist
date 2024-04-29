@@ -25,6 +25,7 @@
   "https://tv.mediacp.eu:8081/10channel/index.m3u8",
   "https://vdo.alphaserver.gr:3411/stream/play.m3u8",
   "https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8",
+  "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
   "https://vod.streams.ovh:3037/stream/play.m3u8",
   "https://vod.streams.ovh:3528/stream/play.m3u8",
   "https://vod.streams.ovh:3876/stream/play.m3u8",
