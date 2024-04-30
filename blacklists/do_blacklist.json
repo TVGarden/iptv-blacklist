@@ -3,11 +3,11 @@
   "https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d11ee8eeb577c693b7d74/index.m3u8",
   "https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m3u8",
   "https://castv10.plugstreaming.com:19360/el75/el75.m3u8",
-  "https://cdn.002radio.com:3909/live/radio002live.m3u8",
   "https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=",
   "https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8",
   "https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8",
   "https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8",
+  "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
   "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8",
   "https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8",
   "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8",
@@ -45,6 +45,5 @@
   "https://vdo2.streamgato.us:3613/live/pinpontvlive.m3u8",
   "https://vdo2.streamgato.us:3978/live/ctvlive.m3u8",
   "https://vpss2003.streamprolive.com/hls/live.m3u8",
-  "https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8",
-  "https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8"
+  "https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8"
 ]
