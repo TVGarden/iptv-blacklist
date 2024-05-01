@@ -1,8 +1,8 @@
 [
   "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8",
+  "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
-  "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8",
@@ -45,7 +45,6 @@
   "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8",
   "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
   "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
-  "https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8",
   "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
   "https://pistream.ddns.net/hls/stream.m3u8",
   "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8",
@@ -103,6 +102,7 @@
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+  "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
   "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true",
   "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true",
@@ -150,10 +150,9 @@
   "https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8",
   "https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8",
   "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8",
-  "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
-  "https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null",
+  "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8",
+  "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8",
   "https://video2.lhdserver.es/despiertatv/live.m3u8",
-  "https://www.amixtv.com:8081/mayavision/index.m3u8",
   "https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8",
   "https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8"
 ]

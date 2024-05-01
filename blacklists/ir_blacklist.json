@@ -1,5 +1,4 @@
 [
-  "https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
   "https://af.ayas.ir/hls2/tv1.m3u8",
   "https://af.ayas.ir/hls2/tv2.m3u8",
   "https://af.ayas.ir/hls2/tv3.m3u8",
@@ -7,8 +6,10 @@
   "https://hls.247box.live/hls/stream.m3u8",
   "https://hls.hodhod.live/hls/stream.m3u8",
   "https://hls.vox1.live/hls/stream.m3u8",
+  "https://live.aionet.ir/hls/eshareh/eshareh.m3u8",
   "https://live.aionet.ir/hls/jahanb/jahanb.m3u8",
   "https://live2.alalam.ir/alalam.m3u8",
   "https://live2.snn.ir/hls/snn.m3u8",
+  "https://oitnhls.wns.live/hls/stream.m3u8",
   "https://pfilmhls.wns.live/hls/stream.m3u8"
 ]
