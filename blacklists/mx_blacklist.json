@@ -5,7 +5,6 @@
   "https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8",
-  "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
   "https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8",
   "https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8",
   "https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8",
@@ -150,6 +149,7 @@
   "https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8",
   "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8",
   "https://video2.lhdserver.es/despiertatv/live.m3u8",
+  "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
   "https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8",
   "https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8"
 ]
