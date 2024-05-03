@@ -1,4 +1,5 @@
 [
+  "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8",
   "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
   "https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8",
@@ -7,7 +8,9 @@
   "https://a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/b1f233d5-847c-437d-aa4f-f73e67a85323/2.m3u8",
   "https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8",
   "https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8",
+  "https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8",
   "https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8",
+  "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
   "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8",
   "https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8",
   "https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8",
@@ -34,6 +37,7 @@
   "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
   "https://ign-sportstribal.amagi.tv/playlist.m3u8",
   "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+  "https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8",
   "https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8",
   "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8",
   "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd",
