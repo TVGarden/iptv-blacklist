@@ -21,7 +21,6 @@
   "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
   "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
   "https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8",
-  "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
   "https://khaterehhls.wns.live/hls/stream.m3u8",
   "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8",
   "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8",
@@ -57,11 +56,11 @@
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
   "https://sofy-ger-samsung.amagi.tv/playlist.m3u8",
-  "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
   "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489",
   "https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8",
   "https://stream.meietv.de/live/meietv.m3u8",
   "https://stream.tiviturk.de/live/tiviturk.m3u8",
   "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+  "https://tastemade-de-samsung.amagi.tv/playlist.m3u8",
   "https://www.oeins.de/live/studio.m3u8"
 ]
