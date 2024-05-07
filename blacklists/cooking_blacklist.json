@@ -2,6 +2,7 @@
   "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
   "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
   "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+  "https://ifood-vizio.amagi.tv/playlist.m3u8",
   "https://lnc-americas-test-kitchen.tubi.video/index.m3u8",
   "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8",
   "https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8",
@@ -14,6 +15,5 @@
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=",
   "https://tastemade-de-samsung.amagi.tv/playlist.m3u8",
   "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
-  "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
   "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8"
 ]
