@@ -1,6 +1,5 @@
 [
   "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
-  "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
   "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
   "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
   "https://lnc-americas-test-kitchen.tubi.video/index.m3u8",
@@ -13,8 +12,8 @@
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=730453b0-df89-477c-a53d-9f59f9f46f37&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.186&includeExtendedEvents=false&marketingRegion=US&serverSideAds=true&sid=130d48cd-22f9-11eb-9bad-0242ac110002&userId=",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=",
-  "https://tastemade-de-samsung.amagi.tv/playlist.m3u8",
   "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
+  "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
   "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
   "https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8"
 ]

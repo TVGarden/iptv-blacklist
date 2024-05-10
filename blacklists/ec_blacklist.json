@@ -1,7 +1,7 @@
 [
   "https://canal.pasajetv.com/PasajeTV.m3u8",
-  "https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8",
-  "https://cp.panelchs.com:1936/8004/8004/playlist.m3u8",
+  "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+  "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
   "https://cp.panelchs.com:1936/8006/8006/playlist.m3u8",
   "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8",
   "https://cp.panelchs.com:1936/8112/8112/playlist.m3u8",
@@ -18,7 +18,6 @@
   "https://go.majestadtv.ec/hls/stream.m3u8",
   "https://inliveserver.com:1936/17518/17518/playlist.m3u8",
   "https://multicanal.streamseguro.com/hls/streaming.m3u8",
-  "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
   "https://paneltv.jlsolutionpc.com:3379/live/victorialive.m3u8",
   "https://plataformavideo.com/live/nortvision.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8",
