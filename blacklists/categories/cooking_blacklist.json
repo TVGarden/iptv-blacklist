@@ -14,6 +14,5 @@
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=",
   "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
   "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
-  "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
-  "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"
+  "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8"
 ]

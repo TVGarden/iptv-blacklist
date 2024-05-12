@@ -20,5 +20,6 @@
   "https://vcp3.myplaytv.com/trt/trt/playlist.m3u8",
   "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
   "https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8",
-  "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+  "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8",
+  "https://vdo1.panelstreaming.live:3875/live/guarotvlive.m3u8"
 ]

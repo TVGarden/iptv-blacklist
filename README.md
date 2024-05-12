@@ -1,13 +1,20 @@
 # IPTV Blacklist
 
 ## Overview
-This repository hosts blacklist files for various countries, specifically designed to enhance the user experience by removing IPTV streams that are problematic. These issues include CORS (Cross-Origin Resource Sharing) problems, unreachable streams (e.g., HTTP 404 errors), and other access or reliability issues. The guiding principle is simple: if a stream does not work, it is removed to prevent a poor user experience.
+This repository hosts blacklist files for various countries and categories, specifically designed to enhance the user experience by removing IPTV streams that are problematic. These issues include CORS (Cross-Origin Resource Sharing) problems, unreachable streams (e.g., HTTP 404 errors), and other access or reliability issues. The guiding principle is simple: if a stream does not work, it is removed to prevent a poor user experience.
 
 ## Structure
-The blacklist files are stored in the `blacklists` folder, each named according to the ISO country code of the country it pertains to, with a postfix '_blacklist.json'. For example:
-- `blacklists/us_blacklist.json` for the United States
-- `blacklists/de_blacklist.json` for Germany
-- `blacklists/jp_blacklist.json` for Japan
+The blacklist files are organized into two main folders within the `blacklists` directory:
+
+- `blacklists/countries/`: Contains blacklist files named according to the ISO country code of the country they pertain to, with a postfix '_blacklist.json'. For example:
+  - `blacklists/countries/us_blacklist.json` for the United States
+  - `blacklists/countries/de_blacklist.json` for Germany
+  - `blacklists/countries/jp_blacklist.json` for Japan
+
+- `blacklists/categories/`: Contains blacklist files for various categories. These files help in filtering streams by specific types or genres of content. For example:
+  - `blacklists/categories/news_blacklist.json` for category `news`
+  - `blacklists/categories/sports_blacklist.json` for category `sports`
+  - `blacklists/categories/music_blacklist.json` for category `music`
 
 ## Usage
 These blacklist files are designed to filter out non-playable IPTV sources in applications and services that stream television content over the internet.
