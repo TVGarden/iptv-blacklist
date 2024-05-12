@@ -1,0 +1,13 @@
+[
+  "https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8",
+  "https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8",
+  "https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8",
+  "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8",
+  "https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8",
+  "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=",
+  "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7",
+  "https://strm.yandex.ru/kal/rtg/rtg0.m3u8",
+  "https://strm.yandex.ru/kal/sibir/sibir0.m3u8",
+  "https://tv.portalexpress.es:3731/stream/play.m3u8",
+  "https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8"
+]
