@@ -1,4 +1,5 @@
 [
+  "https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=",
   "https://streaming.meteonews.net/hls/stream.m3u8",
   "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8",
