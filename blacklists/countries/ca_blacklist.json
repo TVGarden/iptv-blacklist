@@ -15,12 +15,12 @@
   "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
   "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
   "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
-  "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
   "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8",
   "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
   "https://d76toswjmqqzm.cloudfront.net/playlist.m3u8",
   "https://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8",
   "https://fl001.elpcinc.com/CTB-TV/index.m3u8",
+  "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8",
   "https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8",
   "https://live.tv247us.com/tv247/hbo.m3u8",
   "https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8",
@@ -48,5 +48,6 @@
   "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8",
   "https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8",
   "https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8",
+  "https://web.nandansyst.com/hls/nandan.m3u8",
   "https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8"
 ]
