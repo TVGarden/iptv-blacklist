@@ -1,4 +1,5 @@
 [
+  "https://air.tvk6.ru/tvk24/playlist.m3u8",
   "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8",
   "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
   "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
@@ -21,6 +22,8 @@
   "https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8",
   "https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8",
   "https://n1.slavmir.tv/live/slavmir/playlist.m3u8",
+  "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+  "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
   "https://player.smotrim.ru/iframe/stream/live_id/62037",
   "https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8",
   "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
@@ -29,6 +32,7 @@
   "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8",
   "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
   "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+  "https://sitv.ru/hls/stv.m3u8",
   "https://stream.almaz-media.tv:8080/hls/576.m3u8",
   "https://stream.tck.tv/hd.m3u8",
   "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
