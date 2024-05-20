@@ -1,5 +1,4 @@
 [
-  "https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
   "https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8",
@@ -7,7 +6,7 @@
   "https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8",
   "https://d3mghbm9e5zfap.cloudfront.net/UppTVBO/27b541ec946453e75f25a7d489c86168.sdp/playlist.m3u8",
   "https://eu1.servers10.com:8081/ceacomtv/index.m3u8",
-  "https://master.tucableip.com/dtvsc/playlist.m3u8",
+  "https://master.tucableip.com/cristaltv/index.m3u8",
   "https://master.tucableip.com/pstbolivia/video.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/boliviaradiotv/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8",
@@ -17,12 +16,12 @@
   "https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8",
   "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8",
   "https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8",
-  "https://vdo.grupolimalive.com:3089/live/tvelive.m3u8",
+  "https://vdo.panelchs.com:3558/live/carigsotvlive.m3u8",
   "https://video.live.com.bo:3253/live/f10hdlive.m3u8",
   "https://video.live.com.bo:3699/live/megavisionlive.m3u8",
   "https://video.live.com.bo:3731/live/tvuumsalive.m3u8",
+  "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
   "https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8",
-  "https://w8.redpat.tv:7777/play/110/index.m3u8",
   "https://w8.redpat.tv:7777/play/120/index.m3u8",
   "https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/de5454962ef31da329d3a70355e62dfe/index.m3u8"
 ]

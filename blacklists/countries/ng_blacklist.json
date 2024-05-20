@@ -1,6 +1,7 @@
 [
   "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8",
   "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8",
+  "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
   "https://atechgroupuk.site/DTV.m3u8",
   "https://atechgroupuk.site/ETV.m3u8",
   "https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8",
@@ -10,7 +11,7 @@
   "https://mn-nl.mncdn.com/nigbatisrt/nigbatisrt.stream/playlist.m3u8",
   "https://oj7lnn58lg82-hls-live.5centscdn.com/LN247/e54a58cc63ad1a32f28ef53006be2937.sdp/playlist.m3u8",
   "https://tv.ifastekpanel.com:3013/live/atntvlive.m3u8",
-  "https://wazobia.live:8333/channel/wmaxph.m3u8",
+  "https://wazobia.live:8333/channel/wmaxabuja.m3u8",
   "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8",
   "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8",
   "https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8"
