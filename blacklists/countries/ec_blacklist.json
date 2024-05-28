@@ -1,4 +1,5 @@
 [
+  "https://asomatv.duckdns.org/livestream/stream.m3u8",
   "https://canal.pasajetv.com/PasajeTV.m3u8",
   "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8",
   "https://cp.panelchs.com:1936/8112/8112/playlist.m3u8",
@@ -20,9 +21,11 @@
   "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
   "https://samson.streamerr.co:8081/akira/index.m3u8",
   "https://server40.servistreaming.com:3174/live/elsolnetworklive.m3u8",
-  "https://ssh101-fl.bozztv.com/ssh101/prensaec/playlist.m3u8",
+  "https://ssh101-fl.bozztv.com/ssh101/FicoaTVM/playlist.m3u8",
   "https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8",
   "https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8",
   "https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8",
+  "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+  "https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8",
   "https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8"
 ]
