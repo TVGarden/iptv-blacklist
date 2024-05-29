@@ -1,9 +1,9 @@
 [
+  "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
   "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8",
   "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8",
   "https://alternatv.ar/stream/hls/live.m3u8",
-  "https://amhorstream.com/playlist/amhor/playlist.m3u8",
-  "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
+  "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
   "https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
   "https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8",
   "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8",
@@ -34,6 +34,7 @@
   "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8",
   "https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8",
+  "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
   "https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8",
   "https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8",
   "https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8",
@@ -171,8 +172,6 @@
   "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
   "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8",
   "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8",
-  "https://weyyak-live.akamaized.net/weyyak_action/index.m3u8",
-  "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
   "https://woobl.ru/hls987/Amedia_Premium_hd.m3u8",
   "https://woobl.ru/hls987/Dom_kino_premium_hd.m3u8",
   "https://woobl.ru/hls987/Dom_kino.m3u8",
@@ -180,7 +179,5 @@
   "https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8",
   "https://woobl.ru/hls987/Russkiy_roman.m3u8",
   "https://woobl.ru/hls987/TV1000_action_hd.m3u8",
-  "https://woobl.ru/hls987/TV1000_hd.m3u8",
-  "https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8",
-  "https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8"
+  "https://woobl.ru/hls987/TV1000_hd.m3u8"
 ]

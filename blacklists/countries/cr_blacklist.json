@@ -14,9 +14,6 @@
   "https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8",
   "https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8",
   "https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=",
-  "https://lstv.duckdns.org:449/hls/lstv.m3u8",
-  "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
-  "https://lstv.duckdns.org:449/hls/stv.m3u8",
   "https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/faroptv/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8",
@@ -27,7 +24,9 @@
   "https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8",
   "https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8",
   "https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8",
+  "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
   "https://tvdatta.com:3384/live/cartagomedioslive.m3u8",
   "https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8",
-  "https://video20.klm99.com:3558/hybrid/play.m3u8"
+  "https://video20.klm99.com:3558/hybrid/play.m3u8",
+  "https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8"
 ]
