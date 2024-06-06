@@ -25,6 +25,8 @@
   "https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8",
   "https://inliveserver.com:1936/11010/11010/playlist.m3u8",
   "https://janus.tvturf.cl/playlist/stream.m3u8",
+  "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+  "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8",
   "https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8",
   "https://lancotv.ngrok.app/hls/stream.m3u8",
   "https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8",
@@ -73,7 +75,6 @@
   "https://stmv2.zcasthn.com.br/canal5/canal5/playlist.m3u8",
   "https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8",
   "https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8",
-  "https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8",
   "https://stream.wifispeed.cl:3033/hybrid/play.m3u8",
   "https://stv.janus.cl/playlist/stream.m3u8",
   "https://tls-cl.cdnz.cl/camara/live/playlist.m3u8",
@@ -97,7 +98,6 @@
   "https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8",
   "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
   "https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8",
-  "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
   "https://unlimited10-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
   "https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8",
   "https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8",
@@ -120,5 +120,6 @@
   "https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8",
   "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
   "https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8",
+  "https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8",
   "https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8"
 ]
