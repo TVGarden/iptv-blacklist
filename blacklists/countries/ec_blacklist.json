@@ -1,7 +1,5 @@
 [
   "https://canal.pasajetv.com/PasajeTV.m3u8",
-  "https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8",
-  "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
   "https://cloudvideo.servers10.com:8081/8064/index.m3u8",
   "https://cloudvideo.servers10.com:8081/8216/index.m3u8",
   "https://cp.panelchs.com:1936/8006/8006/playlist.m3u8",
@@ -31,7 +29,13 @@
   "https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8",
   "https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8",
   "https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8",
-  "https://tvdatta.com:3578/live/antenaunolive.m3u8",
-  "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+  "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8",
+  "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+  "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+  "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+  "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
+  "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+  "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+  "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
   "https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8"
 ]

@@ -1,5 +1,6 @@
 [
   "https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8",
+  "https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8",
   "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
   "https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8",
   "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8",
@@ -36,7 +37,6 @@
   "https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
   "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
   "https://ign-sportstribal.amagi.tv/playlist.m3u8",
-  "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
   "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
   "https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8",
   "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8",
@@ -82,6 +82,7 @@
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
   "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
+  "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
   "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd",
   "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd",
   "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd",
