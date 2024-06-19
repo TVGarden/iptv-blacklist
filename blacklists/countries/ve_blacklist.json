@@ -16,14 +16,15 @@
   "https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8",
+  "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
   "https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8",
   "https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8",
   "https://vcp.myplaytv.com/coll/coll/playlist.m3u8",
-  "https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8",
+  "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8",
+  "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
   "https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8",
-  "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
-  "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
   "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
+  "https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8",
   "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
   "https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8"
 ]
