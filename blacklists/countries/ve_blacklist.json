@@ -9,6 +9,7 @@
   "https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8",
   "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8",
   "https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8",
+  "https://ls.tves.gob.ve/hls/tves.m3u8",
   "https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/tcbstreaming/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8",
@@ -16,6 +17,7 @@
   "https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/Canal75/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8",
+  "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
   "https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8",
   "https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8",
   "https://vcp.myplaytv.com/canali/canali/playlist.m3u8",
@@ -24,11 +26,8 @@
   "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
   "https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8",
   "https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8",
-  "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
   "https://vcp3.myplaytv.com/trt/trt/playlist.m3u8",
-  "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
   "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
-  "https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8",
   "https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8",
   "https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8"
 ]

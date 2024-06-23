@@ -1,5 +1,4 @@
 [
-  "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
   "https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8",
   "https://donvolga.com/Turan-TV/index.m3u8",
   "https://edge02.odtv.az/o1/arbtv/playlist.m3u8",
@@ -34,8 +33,5 @@
   "https://edge02.odtv.az/o7/tnt4/playlist.m3u8",
   "https://edge02.odtv.az/o7/viasatsport/playlist.m3u8",
   "https://edge02.odtv.az/o8/bloomberg/playlist.m3u8",
-  "https://str.yodacdn.net/aztv/index.m3u8",
-  "https://str.yodacdn.net/medeniyyet/index.m3u8",
-  "https://str.yodacdn.net/real/playlist.m3u8",
   "https://str1.yodacdn.net/qafkaz/playlist.m3u8"
 ]

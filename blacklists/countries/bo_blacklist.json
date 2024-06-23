@@ -1,4 +1,5 @@
 [
+  "https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
   "https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8",
@@ -20,6 +21,7 @@
   "https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8",
   "https://solo.disfrutaenlared.com:1936/sigloxxi/sigloxxi/playlist.m3u8",
   "https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8",
+  "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
   "https://srv.panelcast.net/amitel/amitel/playlist.m3u8",
   "https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8",
   "https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8",
@@ -32,8 +34,9 @@
   "https://video.live.com.bo:3253/live/f10hdlive.m3u8",
   "https://video.live.com.bo:3699/live/megavisionlive.m3u8",
   "https://video.live.com.bo:3731/live/tvuumsalive.m3u8",
-  "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+  "https://video2.getstreamhosting.com:19360/8032/8032.m3u8",
   "https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8",
+  "https://w8.redpat.tv:7777/play/110/index.m3u8",
   "https://w8.redpat.tv:7777/play/120/index.m3u8",
   "https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/de5454962ef31da329d3a70355e62dfe/index.m3u8"
 ]

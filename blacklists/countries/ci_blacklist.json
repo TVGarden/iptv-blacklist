@@ -1,10 +1,5 @@
 [
   "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8",
-  "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8",
-  "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
-  "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8",
-  "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8",
-  "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
   "https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8",
   "https://ythls.onrender.com/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8"
 ]
