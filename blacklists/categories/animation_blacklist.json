@@ -1,6 +1,7 @@
 [
   "https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8",
   "https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8",
+  "https://foxkidstv.be:3369/stream/play.m3u8",
   "https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8",
   "https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8",
   "https://neetball.net/live/neet3.m3u8",
@@ -15,6 +16,7 @@
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
   "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+  "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
   "https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8",
   "https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8",
   "https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8",

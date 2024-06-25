@@ -1,5 +1,4 @@
 [
-  "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
   "https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8",
   "https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8",
   "https://a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/b1f233d5-847c-437d-aa4f-f73e67a85323/2.m3u8",
@@ -7,6 +6,7 @@
   "https://cdn.ntv.ru/th_serial/playlist.m3u8",
   "https://cdn.ntv.ru/th_style/playlist.m3u8",
   "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
+  "https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8",
   "https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v3.m3u8",
   "https://dmtv-plex.amagi.tv/playlist.m3u8",
   "https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8",
