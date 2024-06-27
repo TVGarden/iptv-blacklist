@@ -1,4 +1,6 @@
 [
+  "https://bss1.neterra.tv/magictv/magictv.m3u8",
+  "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
   "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8",
   "https://cdn3.invivo.bg/codehealth_test/index.m3u8",
   "https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8",
@@ -8,6 +10,5 @@
   "https://obs.friendshipchurch.eu/tvn/mystream.m3u8",
   "https://old2.rn-tv.com/k0/stream.m3u8",
   "https://s.piktv.bg/l/live/index.m3u8",
-  "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
-  "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+  "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8"
 ]
