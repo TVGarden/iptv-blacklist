@@ -9,9 +9,8 @@
   "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8",
   "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8",
   "https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8",
+  "https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8",
   "https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8",
-  "https://foxkidstv.be:3369/stream/play.m3u8",
-  "https://geovod-fy.atresmedia.com/vcgtv/_definst_/assets5/2020/11/06/E768367D-E422-4B6B-8032-25A9DEBB87E7/smooth.smil/media_b5000000_36.ts",
   "https://giganet.mk/hls/mnet-kids.m3u8",
   "https://happykids-vizio.amagi.tv/playlist.m3u8",
   "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8",
@@ -35,8 +34,7 @@
   "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8",
   "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8",
   "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
-  "https://rtvelivestream.akamaized.net/rtvesec/clan/GL1/2_v_1_2024_06_27_16_17_33_7399.ts",
-  "https://rtvelivestream.akamaized.net/rtvesec/clan/GL1/2_v_1_2024_06_27_16_17_33_7399.ts",
+  "https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8",
   "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
   "https://seo.tv.bo/tv/ATV2.m3u8",
   "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8",
@@ -65,5 +63,6 @@
   "https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8",
   "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
   "https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8",
-  "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8"
+  "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
+  "https://ztnr.rtve.es/ztnr/5466990.m3u8"
 ]

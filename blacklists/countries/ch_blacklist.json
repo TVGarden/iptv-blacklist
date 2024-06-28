@@ -1,8 +1,5 @@
 [
-  "https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8",
-  "https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8",
-  "https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8",
-  "https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8",
+  "https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8",
   "https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8",
   "https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8",
   "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
