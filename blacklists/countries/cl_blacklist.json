@@ -52,7 +52,6 @@
   "https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8",
   "https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8",
   "https://oracle.streaminghd.cl/canal5/canal5/playlist.m3u8",
-  "https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8",
   "https://panel.dattalive.com/8146/8146/playlist.m3u8",
   "https://panel.miplay.cl:8081/radioq/index.m3u8",
   "https://panel.miplay.cl:8081/spectrumchannel/index.m3u8",
@@ -62,7 +61,6 @@
   "https://paneltv.online:1936/8100/8100/playlist.m3u8",
   "https://paneltv.online:1936/8116/8116/playlist.m3u8",
   "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
-  "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
   "https://scl.edge.grupoz.cl/movie/live/playlist.m3u8",
   "https://scl.edge.grupoz.cl/music/live/music.m3u8",
   "https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8",
@@ -121,6 +119,5 @@
   "https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8",
   "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
   "https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8",
-  "https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8",
   "https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8"
 ]

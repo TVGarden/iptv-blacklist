@@ -1,8 +1,9 @@
 [
-  "https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8",
+  "https://edge.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+  "https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8",
   "https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8",
   "https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8",
-  "https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8",
+  "https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8",
   "https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8",
   "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8",
   "https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8",
