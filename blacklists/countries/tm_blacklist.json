@@ -1,4 +1,5 @@
 [
+  "https://alpha.tv.online.tm/hls/ch000.m3u8",
   "https://alpha.tv.online.tm/hls/ch001.m3u8",
   "https://alpha.tv.online.tm/hls/ch002.m3u8",
   "https://alpha.tv.online.tm/hls/ch003.m3u8",
@@ -6,6 +7,7 @@
   "https://alpha.tv.online.tm/hls/ch005.m3u8",
   "https://alpha.tv.online.tm/hls/ch006.m3u8",
   "https://alpha.tv.online.tm/hls/ch007.m3u8",
+  "https://alpha.tv.online.tm/legacyhls/ch000.m3u8",
   "https://alpha.tv.online.tm/legacyhls/ch001.m3u8",
   "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
   "https://alpha.tv.online.tm/legacyhls/ch003.m3u8",

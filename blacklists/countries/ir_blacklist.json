@@ -3,8 +3,6 @@
   "https://af.ayas.ir/hls2/tv2.m3u8",
   "https://af.ayas.ir/hls2/tv3.m3u8",
   "https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8",
-  "https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8",
-  "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
   "https://hls.hodhod.live/hls/stream.m3u8",
   "https://hls.vox1.live/hls/stream.m3u8",
   "https://live.aionet.ir/hls/aiosport/aiosport.m3u8",
@@ -14,5 +12,6 @@
   "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
   "https://live2.alalam.ir/alalam.m3u8",
   "https://live2.snn.ir/hls/snn.m3u8",
+  "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
   "https://pfilmhls.wns.live/hls/stream.m3u8"
 ]

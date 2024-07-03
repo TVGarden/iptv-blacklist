@@ -1,5 +1,6 @@
 [
   "https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_66dad780017a11ee87ff5592d1e02764/index.m3u8",
+  "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
   "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8",
   "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8",
   "https://canal.mediaserver.com.co/live/canalamordiscos.m3u8",
@@ -10,6 +11,8 @@
   "https://cp.panelchs.com:1936/8094/8094/playlist.m3u8",
   "https://cp.panelchs.com:1936/8170/8170/playlist.m3u8",
   "https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8",
+  "https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8",
+  "https://eu1.servers10.com:8081/8060/index.m3u8",
   "https://eu1.servers10.com:8081/8148/index.m3u8",
   "https://eu1.servers10.com:8081/vidanuevatv/index.m3u8",
   "https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8",
@@ -28,6 +31,7 @@
   "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
   "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
   "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=",
+  "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
   "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
   "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
   "https://movil.ejeserver.com/live/canal8tv.m3u8",
@@ -49,6 +53,7 @@
   "https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/pyctelevision/playlist.m3u8",
+  "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
   "https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8",
   "https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8",
   "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
@@ -74,13 +79,8 @@
   "https://video.ejeserver.com/live/veotv.m3u8",
   "https://video.ejeserver.com/live/verteve.m3u8",
   "https://video.ejeserver.com/live/visiondorada.m3u8",
-  "https://video13.virtualtronics.com/streamer/canal2.m3u8",
   "https://video17.virtualtronics.com/streamer/canalcampotv.m3u8",
-  "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+  "https://videohls2.cosmovision.tv/hls/sd.m3u8",
   "https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8",
-  "https://xhateaec.com/livestreams/19.crKOSL8FRzpid0MA.m3u8",
-  "https://ythls.armelin.one/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8",
-  "https://ythls.armelin.one/channel/UCe5-b0fCK3eQCpwS6MT0aNw.m3u8",
-  "https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8",
-  "https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8"
+  "https://xhateaec.com/livestreams/19.crKOSL8FRzpid0MA.m3u8"
 ]

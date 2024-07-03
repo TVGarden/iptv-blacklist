@@ -47,7 +47,6 @@
   "https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8",
   "https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8",
   "https://estrella-games-oando.amagi.tv/playlist.m3u8",
-  "https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8",
   "https://inwonder-samsungmexico.amagi.tv/playlist.m3u8",
   "https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8",
   "https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8",
@@ -211,8 +210,8 @@
   "https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8",
   "https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8",
   "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8",
+  "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
   "https://video2.lhdserver.es/despiertatv/live.m3u8",
-  "https://www.amixtv.com:8081/mayavision/index.m3u8",
-  "https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8",
-  "https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8"
+  "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8",
+  "https://www.amixtv.com:8081/mayavision/index.m3u8"
 ]

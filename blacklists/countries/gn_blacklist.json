@@ -1,10 +1,8 @@
 [
   "https://cageu.bozztv.com/ssh101/ssh101/fassotv1/playlist.m3u8",
   "https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8",
-  "https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
   "https://kali1.everestcast.com:3235/live/visionweblive.m3u8",
   "https://live.kgsols.com/push/5738602793391390dff3dac4991d158c.sdp/playlist.m3u8",
   "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8",
-  "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8",
-  "https://ythls.armelin.one/channel/UC2vtjGPB2VndmlME61XaRUw.m3u8"
+  "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8"
 ]

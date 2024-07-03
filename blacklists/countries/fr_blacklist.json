@@ -13,11 +13,13 @@
   "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8",
   "https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8",
   "https://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8",
+  "https://familyhls.persiana.live/hls/stream.m3u8",
   "https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8",
   "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8",
   "https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8",
   "https://ktismaservers.in:3394/stream/play.m3u8",
   "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+  "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8",
   "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
   "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
   "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
@@ -29,7 +31,6 @@
   "https://live.mandarine.media/BrionnaisTV/BrionnaisTV/playlist.m3u8",
   "https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8",
   "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
-  "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
   "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE",
   "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
   "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE",
@@ -55,6 +56,7 @@
   "https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8",
+  "https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8",
   "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8",
@@ -108,6 +110,5 @@
   "https://tntv-samsung-fr.amagi.tv/playlist.m3u8",
   "https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8",
   "https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8",
-  "https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/playlist.m3u8",
-  "https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"
+  "https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/playlist.m3u8"
 ]

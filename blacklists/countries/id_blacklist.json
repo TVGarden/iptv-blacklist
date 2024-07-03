@@ -2,6 +2,7 @@
   "https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8",
   "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8",
   "https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8",
+  "https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8",
   "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8",
   "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8",
   "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8",
@@ -18,6 +19,7 @@
   "https://play.accolamedia.id/accola/iberkah.stream/playlist.m3u8",
   "https://rrinet.rri.co.id/hls/live.m3u8",
   "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8",
+  "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
   "https://streamtawaf.asfatv.com/hls/tawaftv.m3u8",
   "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
   "https://v2.siar.us/aditv/livestream/chunks.m3u8",
@@ -26,6 +28,5 @@
   "https://v3.siar.us/paltv/live/playlist.m3u8",
   "https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8",
   "https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8",
-  "https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8",
-  "https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8"
+  "https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8"
 ]
