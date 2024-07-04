@@ -13,7 +13,6 @@
   "https://inliveserver.com:1936/9514/9514/playlist.m3u8",
   "https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8",
   "https://live.obslivestream.com/rwtv/index.m3u8",
-  "https://live.obslivestream.com/vivatv/index.m3u8",
   "https://live.obslivestream.com/vztv/index.m3u8",
   "https://live.obslivestream.com/wtv/index.m3u8",
   "https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8",
@@ -33,6 +32,7 @@
   "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8",
   "https://tv.portalexpress.es:3175/hybrid/play.m3u8",
   "https://tvdatta.com:3211/stream/play.m3u8",
+  "https://v4.tustreaming.cl/atmtv/index.m3u8",
   "https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8",
   "https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8",
   "https://vdo.grupolimalive.com:3365/live/unitellive.m3u8",
@@ -43,9 +43,11 @@
   "https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8",
   "https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8",
   "https://video.agenciastreaming.com:3959/live/utvlive.m3u8",
+  "https://video.ingenioperu.com:3844/stream/play.m3u8",
   "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
   "https://videoserver.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8",
   "https://videoserver.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8",
+  "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
   "https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8",
   "https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
 ]
