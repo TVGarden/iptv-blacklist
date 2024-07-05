@@ -1,7 +1,6 @@
 [
   "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8",
-  "https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8",
   "https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8",
   "https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8",
   "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8",
@@ -50,6 +49,7 @@
   "https://jmp2.uk/SamsungTVPlus/USBD3500024YB.m3u8",
   "https://jmp2.uk/SamsungTVPlus/USBD3500025GS.m3u8",
   "https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8",
+  "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
   "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
   "https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8",
   "https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8",
@@ -59,6 +59,7 @@
   "https://live.smartmediahouse.tv:8443/hls/ch1.m3u8",
   "https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8",
   "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8",
+  "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
   "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
   "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
   "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
