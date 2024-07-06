@@ -1,9 +1,12 @@
 [
   "https://helga.iptv2022.com/DIRECT__7/index.m3u8",
+  "https://helga.iptv2022.com/sh/LNTV/index.m3u8",
   "https://helga.iptv2022.com/sh/TV2/index.m3u8",
   "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
   "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
   "https://hls.newworldtv.com/nw-info/video/live.m3u8",
   "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+  "https://smatogo.tv:89/smatogo/smatogo.m3u8",
+  "https://ssh101.bozztv.com/ssh101/actvstream/playlist.m3u8",
   "https://ssh101.bozztv.com/ssh101/tvdynamicstream/playlist.m3u8"
 ]
