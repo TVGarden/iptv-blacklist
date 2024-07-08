@@ -50,12 +50,10 @@
   "https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8",
   "https://rpn3.bozztv.com/ssh101/ssh101/pyctelevision/playlist.m3u8",
-  "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
   "https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8",
   "https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8",
   "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
   "https://servidordevideo.com:3077/live/despechadalive.m3u8",
-  "https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8",
   "https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8",
   "https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8",
   "https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8",
@@ -66,7 +64,6 @@
   "https://tvlatina.live:1936/8006/8006/playlist.m3u8",
   "https://tvlatina.live:1936/8016/8016/playlist.m3u8",
   "https://tvlatina.live:1936/8018/8018/playlist.m3u8",
-  "https://tvlatina.live:1936/8020/8020/playlist.m3u8",
   "https://tvlatina.live:1936/8024/8024/playlist.m3u8",
   "https://video.ejeserver.com/live/canal8tv.m3u8",
   "https://video.ejeserver.com/live/cncsantander.m3u8",
@@ -80,6 +77,7 @@
   "https://video.ejeserver.com/live/verteve.m3u8",
   "https://video.ejeserver.com/live/visiondorada.m3u8",
   "https://video17.virtualtronics.com/streamer/canalcampotv.m3u8",
+  "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
   "https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8",
   "https://xhateaec.com/livestreams/19.crKOSL8FRzpid0MA.m3u8"
 ]
