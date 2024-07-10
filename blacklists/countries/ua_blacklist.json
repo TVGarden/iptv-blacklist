@@ -2,7 +2,7 @@
   "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
   "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
   "https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8",
-  "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+  "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
   "https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8",
   "https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8",
   "https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8",
@@ -19,7 +19,6 @@
   "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8",
   "https://prm.cdn-02.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8",
   "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-  "https://tv.gtrklnr.ru/hls/Lugansk24.m3u8",
   "https://tv7plus.com/hls/tv7_site.m3u8",
   "https://vitatv.cdn-05.cosmonova.net.ua/hls/vitatv_ua_hi/index.m3u8"
 ]

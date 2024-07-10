@@ -1,5 +1,6 @@
 [
   "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8",
+  "https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8",
   "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8",
   "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
   "https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8",
@@ -9,7 +10,6 @@
   "https://c.mjh.nz/abc-me.m3u8",
   "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8",
   "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8",
-  "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8",
   "https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8",
   "https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8",
   "https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8",
@@ -107,5 +107,6 @@
   "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
   "https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8",
   "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
+  "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
   "https://ztnr.rtve.es/ztnr/5466990.m3u8"
 ]

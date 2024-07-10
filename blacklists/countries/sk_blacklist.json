@@ -1,9 +1,9 @@
 [
   "https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8",
+  "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
   "https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8",
   "https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8",
   "https://n4.stv.livebox.sk/stv-tv/fe09ae603df84846978c9d960f699900/stv1.smil/playlist.m3u8",
   "https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8",
-  "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8",
   "https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8"
 ]
