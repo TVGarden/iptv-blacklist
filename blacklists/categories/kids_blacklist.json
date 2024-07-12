@@ -93,6 +93,7 @@
   "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
   "https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8",
   "https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8",
+  "https://stream01.vnet.am/Boomerang/mono.m3u8",
   "https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8",
   "https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8",
   "https://strm.yandex.ru/kal/leva/leva0.m3u8",
@@ -107,6 +108,5 @@
   "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
   "https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8",
   "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
-  "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
   "https://ztnr.rtve.es/ztnr/5466990.m3u8"
 ]

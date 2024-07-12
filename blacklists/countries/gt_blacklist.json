@@ -5,7 +5,6 @@
   "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
   "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
   "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-  "https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8",
   "https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8",
   "https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8",
   "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8",
@@ -24,8 +23,6 @@
   "https://s.emisoras.tv:8081/simclartv/playlist.m3u8",
   "https://s.emisoras.tv:8081/telearte/index.m3u8",
   "https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8",
-  "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
-  "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
   "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8",
@@ -43,6 +40,5 @@
   "https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8",
   "https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8",
   "https://tv.ideskhn.com:3812/live/teveglobolive.m3u8",
-  "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
   "https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8"
 ]

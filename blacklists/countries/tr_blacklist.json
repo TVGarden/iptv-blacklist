@@ -15,9 +15,10 @@
   "https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8",
   "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
   "https://edge1.socialsmart.tv/altastv/bant1/index.m3u8",
-  "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8",
+  "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
   "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
   "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8",
+  "https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8",
   "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
   "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8",
   "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
@@ -57,7 +58,6 @@
   "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8",
   "https://showturk.blutv.com/blutv_showturk2/live.m3u8",
   "https://showtv.blutv.com/blutv_showtv_live/live.m3u8",
-  "https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8",
   "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8",
   "https://trt1.blutv.com/blutv_trt1_live/live.m3u8",
   "https://trt1.persona.video/master.m3u8?hls=1",
@@ -65,7 +65,6 @@
   "https://trtturk.blutv.com/blutv_trtturk2/live.m3u8",
   "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
   "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-  "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
   "https://tv-trt2.medya.trt.com.tr/master.m3u8",
   "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
   "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
@@ -89,6 +88,5 @@
   "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
   "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
   "https://yayin1.canlitv.day/live/kibrisadatv.stream/playlist.m3u8",
-  "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8",
-  "https://yayin30.haber100.com/live/diyartv/playlist.m3u8"
+  "https://yayin30.haber100.com/live/beykenttv/playlist.m3u8"
 ]
