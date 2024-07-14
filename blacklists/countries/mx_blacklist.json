@@ -3,7 +3,6 @@
   "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
-  "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8",
@@ -32,6 +31,7 @@
   "https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8",
   "https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8",
   "https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8",
+  "https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8",
   "https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
   "https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
   "https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
@@ -212,6 +212,5 @@
   "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8",
   "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
   "https://video2.lhdserver.es/despiertatv/live.m3u8",
-  "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
   "https://www.amixtv.com:8081/mayavision/index.m3u8"
 ]

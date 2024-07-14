@@ -1,5 +1,6 @@
 [
   "https://5940924978228.streamlock.net/8095/8095/playlist.m3u8",
+  "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8",
   "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
   "https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8",
   "https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8",
@@ -9,6 +10,5 @@
   "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8",
   "https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8",
   "https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8",
-  "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8",
-  "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
+  "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8"
 ]
