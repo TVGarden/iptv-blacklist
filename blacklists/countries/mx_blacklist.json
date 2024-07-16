@@ -1,8 +1,11 @@
 [
+  "https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8",
+  "https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8",
   "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8",
   "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8",
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
+  "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8",
   "https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8",
@@ -83,7 +86,6 @@
   "https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8",
   "https://s.emisoras.tv:8081/nnveracruz/index.m3u8",
   "https://s.emisoras.tv:8081/olagruperamx/index.m3u8",
-  "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
   "https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=",
@@ -212,5 +214,6 @@
   "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8",
   "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
   "https://video2.lhdserver.es/despiertatv/live.m3u8",
+  "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
   "https://www.amixtv.com:8081/mayavision/index.m3u8"
 ]

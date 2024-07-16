@@ -25,6 +25,8 @@
   "https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8",
   "https://inliveserver.com:1936/11010/11010/playlist.m3u8",
   "https://janus.tvturf.cl/playlist/stream.m3u8",
+  "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+  "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8",
   "https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8",
   "https://lancotv.ngrok.app/hls/stream.m3u8",
   "https://live.chileservidores.com:8081/ceactv/index.m3u8",
@@ -101,7 +103,6 @@
   "https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8",
   "https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8",
   "https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8",
-  "https://v1.tustreaming.cl/tmntv/index.m3u8",
   "https://v2.tustreaming.cl/amtv/index.m3u8",
   "https://v2.tustreaming.cl/tendenciastv/index.m3u8",
   "https://v2.tustreaming.cl/visionplustv/index.m3u8",
@@ -115,5 +116,6 @@
   "https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8",
   "https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8",
   "https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8",
+  "https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8",
   "https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8"
 ]

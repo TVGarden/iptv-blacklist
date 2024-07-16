@@ -3,7 +3,6 @@
   "https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8",
   "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
   "https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8",
-  "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8",
   "https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8",
   "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
   "https://cdn1.karwan.tv/spi-quran/index.m3u8",
@@ -12,6 +11,7 @@
   "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
   "https://ghaasiflu.online/tarab/index.m3u8",
   "https://ktv.imamhussain.org/stream/hls/ch1.m3u8",
+  "https://ktvlive.online/stream/hls/ch1.m3u8",
   "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
   "https://live.imamhossaintv.com/live/ih1.m3u8",
   "https://live.imamhossaintv.com/live/ih2.m3u8",
@@ -21,5 +21,7 @@
   "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8",
   "https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8",
   "https://mn-nl.mncdn.com/arbaeen/arbaeen_hd.smil/index.m3u8",
+  "https://nl2.livekadeh.com/hls2/alnaeem.m3u8",
+  "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8",
   "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
 ]
