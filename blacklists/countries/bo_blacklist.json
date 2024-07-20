@@ -1,6 +1,5 @@
 [
   "https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8",
-  "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
   "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
   "https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8",
@@ -17,6 +16,8 @@
   "https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8",
   "https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8",
   "https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8",
+  "https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8",
+  "https://video.live.com.bo:3003/live/tvuumsalive.m3u8",
   "https://video.live.com.bo:3099/live/f10hdlive.m3u8",
   "https://video.live.com.bo:3699/live/megavisionlive.m3u8",
   "https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8"

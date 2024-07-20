@@ -14,6 +14,7 @@
   "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8",
   "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8",
   "https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8",
+  "https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8",
   "https://59ce1298bfb98.streamlock.net/panambi/panambi/playlist.m3u8",
   "https://59ce1298bfb98.streamlock.net/pdstv/pdstv/playlist.m3u8",
   "https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/playlist.m3u8",
@@ -36,6 +37,5 @@
   "https://ssh101.bozztv.com/ssh101/artigastv/playlist.m3u8",
   "https://ssh101.bozztv.com/ssh101/oviedotv/playlist.m3u8",
   "https://ssh101.bozztv.com/ssh101/visionhdtv/playlist.m3u8",
-  "https://tv.invasivamedia.com/hls/limtv.m3u8",
   "https://tvdatta.com:3839/live/nandutitvlive.m3u8"
 ]

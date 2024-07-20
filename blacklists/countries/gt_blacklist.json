@@ -1,7 +1,9 @@
 [
   "https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8",
   "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8",
+  "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
   "https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8",
+  "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
   "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
   "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
   "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
@@ -24,7 +26,7 @@
   "https://s.emisoras.tv:8081/simclartv/playlist.m3u8",
   "https://s.emisoras.tv:8081/telearte/index.m3u8",
   "https://srv6.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8",
-  "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
+  "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
   "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
   "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8",
