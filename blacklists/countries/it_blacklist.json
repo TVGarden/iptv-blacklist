@@ -1,8 +1,10 @@
 [
   "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8",
-  "https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8",
+  "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8",
+  "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
   "https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8",
   "https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8",
+  "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
   "https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8",
   "https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8",
   "https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8",
@@ -27,7 +29,6 @@
   "https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8",
   "https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8",
   "https://5f22d76e220e1.streamlock.net/inlire/inlire/playlist.m3u8",
-  "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
   "https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8",
   "https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8",
   "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
@@ -187,10 +188,10 @@
   "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8",
   "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
   "https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8",
-  "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
   "https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8",
   "https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8",
   "https://www.gruppotv7.com:8090/hls/ireporter.m3u8",
   "https://www.gruppotv7.com:8090/hls/meteo.m3u8",
-  "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8"
+  "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8",
+  "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8"
 ]

@@ -12,9 +12,6 @@
   "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
   "https://realstories-samsung-uk.amagi.tv/playlist.m3u8",
   "https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8",
-  "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
-  "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
-  "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
   "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8",
   "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8",
   "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=",
@@ -42,7 +39,6 @@
   "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8",
   "https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8",
   "https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8",
-  "https://ztnr.rtve.es/ztnr/1688885.m3u8",
   "https://ztnr.rtve.es/ztnr/3987218.m3u8",
   "https://ztnr.rtve.es/ztnr/5468585.m3u8"
 ]
