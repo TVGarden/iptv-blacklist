@@ -1,5 +1,6 @@
 [
   "https://58c04fb1d143f.streamlock.net/omroepvlaardingenlive/omroepvlaardingenlive/playlist.m3u8",
+  "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
   "https://58c04fb1d143f.streamlock.net/sleutelstad/sleutelstad/playlist.m3u8",
   "https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8",
   "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8",
@@ -21,6 +22,7 @@
   "https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8",
   "https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8",
   "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8",
+  "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8",
   "https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8",
   "https://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8",
   "https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8",
@@ -33,6 +35,7 @@
   "https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8",
   "https://streaming.rn7.nl/rn7live_abr/visualradio/playlist.m3u8",
   "https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live",
+  "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live",
   "https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8",
   "https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8",
   "https://web.omroepgelderland.nl/live/livetv.m3u8",

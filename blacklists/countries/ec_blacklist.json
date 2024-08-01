@@ -1,4 +1,5 @@
 [
+  "https://asomatv.duckdns.org/livestream/stream.m3u8",
   "https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8",
   "https://cloudvideo.servers10.com:8081/8216/index.m3u8",
   "https://cp.panelchs.com:1936/8006/8006/playlist.m3u8",
@@ -24,11 +25,8 @@
   "https://server40.servistreaming.com:3174/live/elsolnetworklive.m3u8",
   "https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8",
   "https://ssh101-fl.bozztv.com/ssh101/FicoaTVM/playlist.m3u8",
-  "https://ssh101-fl.bozztv.com/ssh101/prensaec/playlist.m3u8",
   "https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8",
   "https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8",
   "https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8",
-  "https://tv.portalexpress.es:3182/hybrid/play.m3u8",
-  "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
-  "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+  "https://tv.portalexpress.es:3182/hybrid/play.m3u8"
 ]

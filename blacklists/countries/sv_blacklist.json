@@ -1,4 +1,5 @@
 [
+  "https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8",
   "https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8",
   "https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8",
   "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
@@ -11,5 +12,6 @@
   "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
   "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
   "https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8",
+  "https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8",
   "https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8"
 ]
