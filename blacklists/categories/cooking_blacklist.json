@@ -1,5 +1,7 @@
 [
   "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+  "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
+  "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8",
   "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8",
   "https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8",
   "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
@@ -14,6 +16,7 @@
   "https://tastemade-de-samsung.amagi.tv/playlist.m3u8",
   "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
   "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8",
+  "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
   "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
   "https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8",
   "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"

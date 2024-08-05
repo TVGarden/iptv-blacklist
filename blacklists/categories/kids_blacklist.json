@@ -78,6 +78,7 @@
   "https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8",
   "https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8",
   "https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8",
+  "https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8",
   "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8",
   "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8",
   "https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8",
@@ -86,5 +87,6 @@
   "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8",
   "https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8",
   "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8",
+  "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
   "https://ztnr.rtve.es/ztnr/5466990.m3u8"
 ]
